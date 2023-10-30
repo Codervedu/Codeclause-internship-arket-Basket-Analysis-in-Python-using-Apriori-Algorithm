@@ -1,1 +1,1 @@
-# Codeclause-internship-arket-Basket-Analysis-in-Python-using-Apriori-Algorithm
+# Codeclause-internship-Market-Basket-Analysis-in-Python-using-Apriori-Algorithm
